@@ -1,0 +1,732 @@
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\App.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.baml
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.dll
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.dll
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.dll
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.dll
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.pdb
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.pdb
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.pdb
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.pdb
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.g.cs
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.g.cs
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\App.g.cs
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.baml
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.baml
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.dll
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.dll
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.dll
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.dll
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.pdb
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.pdb
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.pdb
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.pdb
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTestWindou.g.cs
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.g.cs
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\DeleteTraineeWindow.g.cs
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestWindow.g.cs
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.g.cs
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\App.g.cs
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTestWindou.baml
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.baml
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\DeleteTraineeWindow.baml
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestWindow.baml
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.baml
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\Update.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\Update.baml
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.dll
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.dll
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.dll
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.dll
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.pdb
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.pdb
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.pdb
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.pdb
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.g.cs
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.g.cs
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.g.cs
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.g.cs
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\App.g.cs
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.baml
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.baml
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.baml
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.baml
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.g.cs
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.baml
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.g.cs
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.g.cs
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.g.cs
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.baml
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.baml
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\App.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.dll
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.dll
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.dll
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.dll
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.pdb
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.pdb
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.pdb
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.pdb
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.g.cs
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.g.cs
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.g.cs
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.g.cs
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.g.cs
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.g.cs
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.g.cs
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.g.cs
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\App.g.cs
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.baml
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.baml
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.baml
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.baml
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.baml
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.baml
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.baml
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.baml
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.dll
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.dll
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.dll
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.dll
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.pdb
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.pdb
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.pdb
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.pdb
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.g.cs
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.g.cs
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.g.cs
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.g.cs
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.g.cs
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.g.cs
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.g.cs
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.g.cs
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\App.g.cs
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.baml
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.baml
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.baml
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.baml
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.baml
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.baml
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.baml
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.baml
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestFeedback.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestFeedback.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.dll
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.dll
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.dll
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.dll
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestFeedback.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\App.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestFeedback.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestFeedback.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\App.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestFeedback.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.dll
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.dll
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.dll
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.dll
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminPasswordWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestFeedback.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\App.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminPasswordWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestFeedback.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminPasswordWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminPasswordWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminPasswordWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminPasswordWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminPasswordWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestFeedback.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\App.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminPasswordWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestFeedback.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.g.cs
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminPasswordWindow.g.cs
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.g.cs
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.g.cs
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestFeedback.g.cs
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.g.cs
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.g.cs
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.g.cs
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.baml
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminPasswordWindow.baml
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.baml
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.baml
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestFeedback.baml
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.baml
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.baml
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.baml
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.dll
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.dll
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.dll
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.dll
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.pdb
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.pdb
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.pdb
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.pdb
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.g.cs
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.g.cs
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminPasswordWindow.g.cs
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.g.cs
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.g.cs
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestFeedback.g.cs
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.g.cs
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.g.cs
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.g.cs
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.g.cs
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\App.g.cs
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.baml
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.baml
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminPasswordWindow.baml
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.baml
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.baml
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestFeedback.baml
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.baml
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.baml
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.baml
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.baml
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.dll
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.dll
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.dll
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.dll
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.pdb
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.pdb
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.pdb
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.pdb
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.g.cs
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.g.cs
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminPasswordWindow.g.cs
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.g.cs
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.g.cs
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestFeedback.g.cs
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.g.cs
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.g.cs
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.g.cs
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.g.cs
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\App.g.cs
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.baml
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.baml
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminPasswordWindow.baml
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.baml
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.baml
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestFeedback.baml
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.baml
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.baml
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.baml
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.baml
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\SystemIsWorkingWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\SystemIsWorkingWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\SystemIsWorkingWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\SystemIsWorkingWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminPasswordWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\SystemIsWorkingWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestFeedback.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\App.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminPasswordWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\SystemIsWorkingWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestFeedback.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.dll
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.dll
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.dll
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.dll
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminPasswordWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\SystemIsWorkingWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestFeedback.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTestWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\App.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminPasswordWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\SystemIsWorkingWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestFeedback.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTestWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.dll
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.dll
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.dll
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.dll
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.pdb
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.pdb
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.pdb
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.pdb
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.g.cs
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.g.cs
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminPasswordWindow.g.cs
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.g.cs
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\ChoseTraineeWindow.g.cs
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\SystemIsWorkingWindow.g.cs
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.g.cs
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestFeedback.g.cs
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.g.cs
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.g.cs
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.g.cs
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTestWindow.g.cs
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.g.cs
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.baml
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.baml
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminPasswordWindow.baml
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.baml
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\SystemIsWorkingWindow.baml
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.baml
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestFeedback.baml
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.baml
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.baml
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.baml
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTestWindow.baml
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.baml
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\ChoseTraineeWindow.baml
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\user\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminPasswordWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\ChoseTraineeWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\SystemIsWorkingWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestFeedback.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTestWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\App.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.dll
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.dll
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.dll
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.dll
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BL.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\BO.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DO.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\bin\Debug\DL.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\ConfigWindow.g.cs
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTesterWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AddTraineeWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminPasswordWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\AdminWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\ChoseTraineeWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\SystemIsWorkingWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TesterWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestFeedback.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TestOrder.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\TraineeWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTesterWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTestWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\UpdateTraineeWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\ConfigWindow.baml
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete

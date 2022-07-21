@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testers>
+  <tester>
+    <ID>88888888</ID>
+    <LastName>Shechter</LastName>
+    <FirstName>Avner</FirstName>
+    <DateOfBirth>27/12/1975</DateOfBirth>
+    <Gender>Male</Gender>
+    <Phone>0555588887</Phone>
+    <Address>
+      <City>בני ברק</City>
+      <Street>ירושלים</Street>
+      <HouseNumber>33</HouseNumber>
+    </Address>
+    <CarType>Private</CarType>
+    <Seniority>17</Seniority>
+    <MaxTestsPerWeek>9</MaxTestsPerWeek>
+    <MaxDistanceFromAddress>50</MaxDistanceFromAddress>
+  </tester>
+  <tester>
+    <ID>77777777</ID>
+    <LastName>Erlich</LastName>
+    <FirstName>Uri</FirstName>
+    <DateOfBirth>06/11/1975</DateOfBirth>
+    <Gender>Male</Gender>
+    <Phone>0558529654</Phone>
+    <Address>
+      <City>אלעד</City>
+      <Street>חוני המעגל</Street>
+      <HouseNumber>13</HouseNumber>
+    </Address>
+    <CarType>TwoWheeled</CarType>
+    <Seniority>22</Seniority>
+    <MaxTestsPerWeek>8</MaxTestsPerWeek>
+    <MaxDistanceFromAddress>45.9</MaxDistanceFromAddress>
+  </tester>
+  <tester>
+    <ID>66666666</ID>
+    <LastName>Amzaleg</LastName>
+    <FirstName>Moshiko</FirstName>
+    <DateOfBirth>26/05/1986</DateOfBirth>
+    <Gender>Male</Gender>
+    <Phone>0521452639</Phone>
+    <Address>
+      <City>פתח תקוה</City>
+      <Street>היבנר</Street>
+      <HouseNumber>21</HouseNumber>
+    </Address>
+    <CarType>LightTrack</CarType>
+    <Seniority>20</Seniority>
+    <MaxTestsPerWeek>7</MaxTestsPerWeek>
+    <MaxDistanceFromAddress>88</MaxDistanceFromAddress>
+  </tester>
+  <tester>
+    <ID>99999999</ID>
+    <LastName>Harel</LastName>
+    <FirstName>Nati</FirstName>
+    <DateOfBirth>19/01/1983</DateOfBirth>
+    <Gender>Male</Gender>
+    <Phone>0524132123</Phone>
+    <Address>
+      <City>תל אביב</City>
+      <Street>הירקון</Street>
+      <HouseNumber>3</HouseNumber>
+    </Address>
+    <CarType>HeavyTrack</CarType>
+    <Seniority>5</Seniority>
+    <MaxTestsPerWeek>14</MaxTestsPerWeek>
+    <MaxDistanceFromAddress>26.6</MaxDistanceFromAddress>
+  </tester>
+</testers>

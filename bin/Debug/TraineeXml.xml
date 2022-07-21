@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<trainees>
+  <trainee>
+    <ID>22222222</ID>
+    <LastName>Packter</LastName>
+    <FirstName>Aharon</FirstName>
+    <DateOfBirth>22/04/1990</DateOfBirth>
+    <Gender>Male</Gender>
+    <Phone>0527188935</Phone>
+    <Address>
+      <City>אלעד</City>
+      <Street>יהודה הנשיא </Street>
+      <HouseNumber>63</HouseNumber>
+    </Address>
+    <CarType>TwoWheeled</CarType>
+    <GearBoxType>Automatic</GearBoxType>
+    <DrivingSchoolName>Mem-Mem-Mem</DrivingSchoolName>
+    <TeacherName>Yossi</TeacherName>
+    <NumberOfLessons>33</NumberOfLessons>
+  </trainee>
+  <trainee>
+    <ID>44444444</ID>
+    <LastName>Netanyahu</LastName>
+    <FirstName>Bibi</FirstName>
+    <DateOfBirth>24/11/1960</DateOfBirth>
+    <Gender>Male</Gender>
+    <Phone>0523698741</Phone>
+    <Address>
+      <City>ירושלים</City>
+      <Street>בלפור</Street>
+      <HouseNumber>10</HouseNumber>
+    </Address>
+    <CarType>LightTrack</CarType>
+    <GearBoxType>Automatic</GearBoxType>
+    <DrivingSchoolName>The-Best</DrivingSchoolName>
+    <TeacherName>Aryeh</TeacherName>
+    <NumberOfLessons>66</NumberOfLessons>
+  </trainee>
+  <trainee>
+    <ID>55555555</ID>
+    <LastName>Yafa</LastName>
+    <FirstName>Yarkoni</FirstName>
+    <DateOfBirth>05/03/1999</DateOfBirth>
+    <Gender>Female</Gender>
+    <Phone>0581234567</Phone>
+    <Address>
+      <City>תל אביב</City>
+      <Street>שפירא</Street>
+      <HouseNumber>5</HouseNumber>
+    </Address>
+    <CarType>HeavyTrack</CarType>
+    <GearBoxType>Manual</GearBoxType>
+    <DrivingSchoolName>The-Best</DrivingSchoolName>
+    <TeacherName>Reoot</TeacherName>
+    <NumberOfLessons>12</NumberOfLessons>
+  </trainee>
+  <trainee>
+    <ID>32323232</ID>
+    <LastName>Nave</LastName>
+    <FirstName>Ofir</FirstName>
+    <DateOfBirth>15/03/1995</DateOfBirth>
+    <Gender>Male</Gender>
+    <Phone>0524578545</Phone>
+    <Address>
+      <City>רעננה</City>
+      <Street>דורי</Street>
+      <HouseNumber>30</HouseNumber>
+    </Address>
+    <CarType>TwoWheeled</CarType>
+    <GearBoxType>Automatic</GearBoxType>
+    <DrivingSchoolName>AAA Beam</DrivingSchoolName>
+    <TeacherName>Avi</TeacherName>
+    <NumberOfLessons>33</NumberOfLessons>
+  </trainee>
+  <trainee>
+    <ID>12121212</ID>
+    <LastName>Rubinshtein</LastName>
+    <FirstName>Gadi</FirstName>
+    <DateOfBirth>04/08/1990</DateOfBirth>
+    <Gender>Male</Gender>
+    <Phone>0524155886</Phone>
+    <Address>
+      <City>ראש העין</City>
+      <Street>יהודה הלוי</Street>
+      <HouseNumber>12</HouseNumber>
+    </Address>
+    <CarType>HeavyTrack</CarType>
+    <GearBoxType>Automatic</GearBoxType>
+    <DrivingSchoolName>AAA Beam</DrivingSchoolName>
+    <TeacherName>David</TeacherName>
+    <NumberOfLessons>44</NumberOfLessons>
+  </trainee>
+  <trainee>
+    <ID>33333333</ID>
+    <LastName>Purkaney</LastName>
+    <FirstName>Yotzmach</FirstName>
+    <DateOfBirth>16/08/1978</DateOfBirth>
+    <Gender>Male</Gender>
+    <Phone>0503699524</Phone>
+    <Address>
+      <City>פתח תקוה</City>
+      <Street>חיים כהן</Street>
+      <HouseNumber>5</HouseNumber>
+    </Address>
+    <CarType>Private</CarType>
+    <GearBoxType>Manual</GearBoxType>
+    <DrivingSchoolName>Mem-Mem-Mem</DrivingSchoolName>
+    <TeacherName>Yossi</TeacherName>
+    <NumberOfLessons>45</NumberOfLessons>
+  </trainee>
+  <trainee>
+    <ID>11111111</ID>
+    <LastName>Packter</LastName>
+    <FirstName>Moriya</FirstName>
+    <DateOfBirth>27/07/1992</DateOfBirth>
+    <Gender>Female</Gender>
+    <Phone>0548482370</Phone>
+    <Address>
+      <City>בני ברק</City>
+      <Street>חזון איש</Street>
+      <HouseNumber>22</HouseNumber>
+    </Address>
+    <CarType>Private</CarType>
+    <GearBoxType>Automatic</GearBoxType>
+    <DrivingSchoolName>Mem-Mem-Mem</DrivingSchoolName>
+    <TeacherName>Talya</TeacherName>
+    <NumberOfLessons>30</NumberOfLessons>
+  </trainee>
+</trainees>

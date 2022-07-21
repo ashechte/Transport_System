@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tests>
+  <test>
+    <TestNumber>10000007</TestNumber>
+    <TesterID>88888888</TesterID>
+    <TraineeID>33333333</TraineeID>
+    <TestDate>13/02/2019</TestDate>
+    <TestTime>12</TestTime>
+    <ExitAddress>
+      <City>פתח תקוה</City>
+      <Street>חיים כהן</Street>
+      <HouseNumber>5</HouseNumber>
+    </ExitAddress>
+    <TestAlreadyDoneAndSealed>True</TestAlreadyDoneAndSealed>
+    <DistanceKeeping>True</DistanceKeeping>
+    <ReverseParking>True</ReverseParking>
+    <LookingAtMirrors>False</LookingAtMirrors>
+    <SignalsUsage>False</SignalsUsage>
+    <PriorityGiving>False</PriorityGiving>
+    <SpeedKeeping>False</SpeedKeeping>
+    <TestScore>False</TestScore>
+    <TestersNote>csc</TestersNote>
+  </test>
+  <test>
+    <TestNumber>10000006</TestNumber>
+    <TesterID>99999999</TesterID>
+    <TraineeID>12121212</TraineeID>
+    <TestDate>24/02/2019</TestDate>
+    <TestTime>12</TestTime>
+    <ExitAddress>
+      <City>קריית אונו</City>
+      <Street>יהודה הלוי</Street>
+      <HouseNumber>12</HouseNumber>
+    </ExitAddress>
+    <TestAlreadyDoneAndSealed>True</TestAlreadyDoneAndSealed>
+    <DistanceKeeping>True</DistanceKeeping>
+    <ReverseParking>True</ReverseParking>
+    <LookingAtMirrors>True</LookingAtMirrors>
+    <SignalsUsage>True</SignalsUsage>
+    <PriorityGiving>True</PriorityGiving>
+    <SpeedKeeping>True</SpeedKeeping>
+    <TestScore>False</TestScore>
+    <TestersNote>bad</TestersNote>
+  </test>
+  <test>
+    <TestNumber>10000032</TestNumber>
+    <TesterID>66666666</TesterID>
+    <TraineeID>44444444</TraineeID>
+    <TestDate>11/02/2019</TestDate>
+    <TestTime>12</TestTime>
+    <ExitAddress>
+      <City>ירושלים</City>
+      <Street>בלפור</Street>
+      <HouseNumber>10</HouseNumber>
+    </ExitAddress>
+    <TestAlreadyDoneAndSealed>False</TestAlreadyDoneAndSealed>
+    <DistanceKeeping>False</DistanceKeeping>
+    <ReverseParking>False</ReverseParking>
+    <LookingAtMirrors>False</LookingAtMirrors>
+    <SignalsUsage>False</SignalsUsage>
+    <PriorityGiving>False</PriorityGiving>
+    <SpeedKeeping>False</SpeedKeeping>
+    <TestScore>False</TestScore>
+    <TestersNote />
+  </test>
+</tests>
