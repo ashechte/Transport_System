@@ -1,0 +1,148 @@
+C:\Users\User\Desktop\שנה ב\סמסטר חורף\מיניפרויקט c#\תרגילים הגשה\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.dll
+C:\Users\User\Desktop\שנה ב\סמסטר חורף\מיניפרויקט c#\תרגילים הגשה\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.pdb
+C:\Users\User\Desktop\שנה ב\סמסטר חורף\מיניפרויקט c#\תרגילים הגשה\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.dll
+C:\Users\User\Desktop\שנה ב\סמסטר חורף\מיניפרויקט c#\תרגילים הגשה\Project01_0508_9502_dotNet5779\DL\bin\Debug\DS.dll
+C:\Users\User\Desktop\שנה ב\סמסטר חורף\מיניפרויקט c#\תרגילים הגשה\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.pdb
+C:\Users\User\Desktop\שנה ב\סמסטר חורף\מיניפרויקט c#\תרגילים הגשה\Project01_0508_9502_dotNet5779\DL\bin\Debug\DS.pdb
+C:\Users\User\Desktop\שנה ב\סמסטר חורף\מיניפרויקט c#\תרגילים הגשה\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\שנה ב\סמסטר חורף\מיניפרויקט c#\תרגילים הגשה\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\שנה ב\סמסטר חורף\מיניפרויקט c#\תרגילים הגשה\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csproj.CopyComplete
+C:\Users\User\Desktop\שנה ב\סמסטר חורף\מיניפרויקט c#\תרגילים הגשה\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.dll
+C:\Users\User\Desktop\שנה ב\סמסטר חורף\מיניפרויקט c#\תרגילים הגשה\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csprojResolveAssemblyReference.cache
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.pdb
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.dll
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.pdb
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.dll
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.pdb
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csprojAssemblyReference.cache
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csproj.CopyComplete
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.dll
+C:\Users\Moriya\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.pdb
+C:\Users\user\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.dll
+C:\Users\user\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.pdb
+C:\Users\user\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.dll
+C:\Users\user\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.pdb
+C:\Users\user\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csprojAssemblyReference.cache
+C:\Users\user\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csproj.CopyComplete
+C:\Users\user\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.dll
+C:\Users\user\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csprojResolveAssemblyReference.cache
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.pdb
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.dll
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.pdb
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.dll
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.pdb
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csproj.CopyComplete
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.dll
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.pdb
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.dll
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.pdb
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.dll
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.pdb
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.dll
+C:\Users\student\Downloads\Project01_0508_9502_dotNet5779 (4)\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.dll
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.dll
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csprojAssemblyReference.cache
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csproj.CopyComplete
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.dll
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csprojResolveAssemblyReference.cache
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\project-2018\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.dll
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.dll
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csprojAssemblyReference.cache
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csproj.CopyComplete
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.dll
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csprojResolveAssemblyReference.cache
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\יום חמישי\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.pdb
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.dll
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.pdb
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.dll
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.pdb
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csproj.CopyComplete
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.dll
+C:\Users\User\Downloads\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.pdb
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.dll
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.pdb
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.dll
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.pdb
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.dll
+C:\Users\student\Desktop\רוני\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.pdb
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.dll
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.pdb
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.dll
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.pdb
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.dll
+C:\Users\student\Desktop\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csprojResolveAssemblyReference.cache
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.dll
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\Aharon Packter\תיקיה חדשה\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.dll
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.dll
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csprojAssemblyReference.cache
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csproj.CopyComplete
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.dll
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.dll
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DL.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.dll
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\bin\Debug\DO.pdb
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csprojAssemblyReference.cache
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.csproj.CopyComplete
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.dll
+C:\Users\ronip\OneDrive\Desktop\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\Project01_0508_9502_dotNet5779\DL\obj\Debug\DL.pdb
+C:\Users\User\Desktop\projects\c#\Project03_0508_9502_dotNet5779\DL\bin\Debug\DL.dll
+C:\Users\User\Desktop\projects\c#\Project03_0508_9502_dotNet5779\DL\bin\Debug\DL.pdb
+C:\Users\User\Desktop\projects\c#\Project03_0508_9502_dotNet5779\DL\bin\Debug\DO.dll
+C:\Users\User\Desktop\projects\c#\Project03_0508_9502_dotNet5779\DL\bin\Debug\DO.pdb
+C:\Users\User\Desktop\projects\c#\Project03_0508_9502_dotNet5779\DL\obj\Debug\DL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\projects\c#\Project03_0508_9502_dotNet5779\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projects\c#\Project03_0508_9502_dotNet5779\DL\obj\Debug\DL.csproj.CopyComplete
+C:\Users\User\Desktop\projects\c#\Project03_0508_9502_dotNet5779\DL\obj\Debug\DL.dll
+C:\Users\User\Desktop\projects\c#\Project03_0508_9502_dotNet5779\DL\obj\Debug\DL.pdb
